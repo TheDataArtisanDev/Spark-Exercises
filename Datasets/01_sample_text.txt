@@ -1,0 +1,5 @@
+Spark is a unified analytics engine.
+It provides high-level APIs in Java, Scala, Python, and R.
+PySpark is the Python API for Spark.
+It allows working with RDDs and DataFrames in Python.
+You can perform data processing and machine learning in parallel.
